@@ -1,0 +1,9 @@
+https://www.novaspirit.com/2017/05/23/voice-activated-google-assistant-raspberry-pi/
+
+https://howchoo.com/g/ntcymzbimjv/how-to-install-magic-mirror-on-your-raspberry-pi
+
+https://www.raspberrypi.org/forums/viewtopic.php?t=245989
+
+https://github.com/KirAsh4/calendar_monthly/
+
+https://github.com/slametps/MMM-PrayerTime
